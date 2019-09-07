@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohqueiloon.motnok.dk/sitemap.xml
